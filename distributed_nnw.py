@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jan 10 00:52:31 2019
 
 @author: Elias
 """
